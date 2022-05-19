@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sarastiebz an experienced emergency medicine PA-C
+- 👀 I’m interested in making healthcare more efficient with technology
+- 🌱 I’m currently learning Python
